@@ -2,6 +2,7 @@
 
 카드폼 연습
 
+![](media/Peek%202021-05-31%2020-44.gif)
 ## 출처
 
 https://velog.io/@gicomong/Form-필드-애니메이션
@@ -16,4 +17,7 @@ https://velog.io/@gicomong/Form-필드-애니메이션
 - line-height 에 대해서 공부함
   - font awesoem 사용시에 아이콘에 line-height를 적용하여 아이콘 크기를 키우는 방법에 대해 알게됨
   - px 혹은 배수로 줄 수 있다
-- 
+
+## 의문점
+
+- 왜 absolute를 쓰는가...?

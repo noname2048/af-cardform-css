@@ -1,8 +1,11 @@
+@charset "UTF-8";
 @import url(https://pro.fontawesome.com/releases/v5.10.0/css/all.css);
 body {
   display: flex;
   justify-content: center;
   align-items: center;
+  min-height: 100vh;
+  margin: 0;
 }
 
 .item {
@@ -39,7 +42,9 @@ body {
 .item input[type=tel]:focus::placeholder,
 .item input[type=email]:focus::placeholder {
   visibility: hidden;
+  /* 내 컴퓨터에서 작동안하는 코드 */
   color: transparent;
+  /* 내 컴퓨터에서 작동하는 코드 */
 }
 
 .item .fa {
